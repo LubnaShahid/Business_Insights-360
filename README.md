@@ -1,20 +1,20 @@
 # Business_Insights-360
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d9176771-ff72-4521-aa18-7abee38c624c" />
-Project Overview
+ # Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
 
-Live Report Link
+# Live Report Link
 
-Tech stacks
+# Tech stacks
 SQL
 PowerBi Desktop
 Excel
 DAX language
 DAX studio (for optimizing the report)
 Project charter file
-PowerBI techniques Learnt
+# PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
 creating measure using DAX language
@@ -33,10 +33,10 @@ Setting up personal gateway to set up the auto refresh of data
 PowerBi App creation
 Collaboration, workspace, access permissions in PowerBi services
 And more 😅
-GitHub
+# GitHub
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
-Business related terms
+# Business related terms
 Gross price
 Pre-invoice deductions
 Post-Invoice deductions
@@ -51,7 +51,7 @@ Direct
 Retailer
 Distributors
 Consumer
-Company’s back ground
+# Company’s back ground
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 Retailers
@@ -61,7 +61,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-Questions to ask before starting with dashboard
+# Questions to ask before starting with dashboard
 What is the objective of building this PowerBi dashboard?
 In what terms the success of this project will be measured?
 What will be time dead-line of the project?
@@ -75,33 +75,33 @@ what are all the resources/ data needed to build this dashboard?
 is there any inputs from stakeholders in terms of design and views of the dashboard?
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
-Dataset Understanding.
+# Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
 Dimension table : It will have the static data like details of customer and products
 
 Fact table : It will have the data about the transactions
 
-gdb041:
-dim_customer
-27 distinct markets (ex India, USA, spain)
-75 distinct customers thorough out the market
-2 types of platforms
-Brick & Motors - Physical/offline store
-E-commerce - Online Store (Amazon, flipkart)
-Three channels
-Retailer
-Direct
-Distributors
-dim_market
-27 distinct markets (ex India, USA, spain)
-7 sub-zones
-4 regions
-APAC
-EU
-nan
-LATAM
-dim_product
+* gdb041:
+** dim_customer
+***27 distinct markets (ex India, USA, spain)
+***75 distinct customers thorough out the market
+* 2 types of platforms
+** Brick & Motors - Physical/offline store
+** E-commerce - Online Store (Amazon, flipkart)
+*Three channels
+**Retailer
+**Direct
+**Distributors
+*dim_market
+**27 distinct markets (ex India, USA, spain)
+*** 7 sub-zones
+  * 4 regions
+** APAC
+** EU
+** nan
+** LATAM
+* dim_product
 Divisions
 P & A
 Peripherals
