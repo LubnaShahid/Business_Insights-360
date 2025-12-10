@@ -91,8 +91,8 @@ Fact table : It will have the data about the transactions
 +  E-commerce - Online Store (Amazon, flipkart)
 *Three channels
 + Retailer
-  + Direct
-+ Distributors
+  +  Direct
++  Distributors
 *dim_market
 + 27 distinct markets (ex India, USA, spain)
 - 7 sub-zones
