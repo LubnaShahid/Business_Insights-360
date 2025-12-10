@@ -157,3 +157,5 @@ In Home view, all the views button will be available. User will land on specific
 * Executive View
 * Products
 * Support
+
+# Sales Dashboard.(https://github.com/LubnaShahid/Business_Insights-360/blob/main/Supply%20Chain%20Dashboard%20SS.png)
