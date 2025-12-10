@@ -92,8 +92,8 @@ Fact table : It will have the data about the transactions
 *Three channels
 + Retailer
   +  Direct
-+  Distributors
-*dim_market
+  +  Distributors
+* dim_market
 + 27 distinct markets (ex India, USA, spain)
 - 7 sub-zones
   * 4 regions
