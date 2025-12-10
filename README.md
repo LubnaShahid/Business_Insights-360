@@ -94,13 +94,13 @@ Fact table : It will have the data about the transactions
   +  Direct
   +  Distributors
 * dim_market
-+ 27 distinct markets (ex India, USA, spain)
-+ 7 sub-zones
-+ 4 regions
- + APAC
- +  EU
- + nan
- + LATAM
+* 27 distinct markets (ex India, USA, spain)
+* 7 sub-zones
+* 4 regions
+ +  APAC
+ +   EU
+ +  nan
+ +  LATAM
 * dim_product
 + Divisions
 - P & A
