@@ -1,5 +1,5 @@
 # Business_Insights-360
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d9176771-ff72-4521-aa18-7abee38c624c" />
+
  # Project Overview
  
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
@@ -157,5 +157,7 @@ In Home view, all the views button will be available. User will land on specific
 * Executive View
 * Products
 * Support
+  
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d9176771-ff72-4521-aa18-7abee38c624c" />
 
-# Sales Dashboard.(https://github.com/LubnaShahid/Business_Insights-360/blob/main/Supply%20Chain%20Dashboard%20SS.png)
+# ![Sales Dashboard Preview].(https://github.com/LubnaShahid/Business_Insights-360/blob/main/Supply%20Chain%20Dashboard%20SS.png)
