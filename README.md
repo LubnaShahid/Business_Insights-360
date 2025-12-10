@@ -89,18 +89,18 @@ Fact table : It will have the data about the transactions
 * 2 types of platforms
   + Brick & Motors - Physical/offline store
 +  E-commerce - Online Store (Amazon, flipkart)
-*Three channels
+* Three channels
 + Retailer
   +  Direct
   +  Distributors
 * dim_market
 + 27 distinct markets (ex India, USA, spain)
-- 7 sub-zones
-  * 4 regions
-- APAC
-  -  EU
-- nan
-- LATAM
++ 7 sub-zones
++ 4 regions
+ + APAC
+ +  EU
+ + nan
+ + LATAM
 * dim_product
 + Divisions
 - P & A
