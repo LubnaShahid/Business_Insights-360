@@ -91,7 +91,7 @@ Fact table : It will have the data about the transactions
   +  Physical/offline store
 +  E-commerce - Online Store (Amazon, flipkart)
 * Three channels
-+ Retailer
+  + Retailer
   +  Direct
   +  Distributors
 + dim_market
@@ -103,16 +103,16 @@ Fact table : It will have the data about the transactions
   +  nan
   +  LATAM
 * dim_product
-+ Divisions
-- P & A
-- Peripherals
-- Accessories
-- PC
-- Notebook
-- Desktop
-- N & S
-- Networking
-- Storage
+ + Divisions
+  + P & A
+     + Peripherals
+     + Accessories
+  + PC
+    + Notebook
+    + Desktop
+  + N & S
+    + Networking
+    + Storage
 * There are 14 different categories, Like Internal HDD, keyboard
 * There are different variants available for the same product
 * fact_forecast_monthly
